@@ -1,0 +1,2 @@
+2024/09/30 20:10:24 [error] 25616#25456: *1 could not find named location "@php", client: 127.0.0.1, server: parasale.ru, request: "GET / HTTP/1.1", host: "parasale.ru"
+2024/09/30 20:10:25 [error] 25616#25456: *2 could not find named location "@php", client: 127.0.0.1, server: parasale.ru, request: "GET / HTTP/1.1", host: "parasale.ru"
